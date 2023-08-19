@@ -2,6 +2,10 @@
 
 My first Data Science and Machine Learning project! In this project, I've developed a model to predict house prices in Mumbai using various features. The dataset used for this project was obtained from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/karanchinchpure/house-price-predict-in-mumbai-city).
 
+### Learning and Growth
+
+I want to emphasize that I am still learning and growing as a data scientist. This project reflects my current understanding, and I'm excited to see how my skills will evolve with each new project I undertake. Constructive feedback and suggestions are always welcome as they contribute to my learning process.
+
 ## Project Overview
 
 This project is about predicting house prices in Mumbai, a city with a dynamic real estate market. The goal was to create a machine learning model that could predict house prices based on different attributes like square footage, number of bedrooms, location, etc.
